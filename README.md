@@ -15,6 +15,11 @@
   <a href="https://theburujan.tech"><img src="https://img.shields.io/badge/The%20Burujan-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="The Burujan"></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/huzaifayasin681?tab=followers"><img src="https://img.shields.io/github/followers/huzaifayasin681?label=Follow&style=social" alt="Follow on GitHub"></a>
+  <img src="https://komarev.com/ghpvc/?username=huzaifayasin681&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+</p>
+
 ---
 
 ## About
@@ -77,7 +82,7 @@ I am a NOC Engineer at **Trovicor** and a Computer Science graduate from PMAS Ar
 | Project | Summary | Stack |
 |---|---|---|
 | [**Forensic & Threat Hunting Tool**](https://github.com/huzaifayasin681/forensic_tool) | Extracts and analyzes indicators from PST, OST, MSG, EML, Excel and CSV sources. IOC extraction, email deduplication, contextual IP classification, attachment analysis, dashboards and CSV reporting. | Python, Streamlit |
-| [**AI Incident Intelligence & Decision Engine**](https://github.com/huzaifayasin681/ai-incident-intelligence-decision-engine) | Turns raw security signals into prioritized, actionable intelligence and response decisions. | Python, LLMs |
+| [**AI Incident Intelligence & Decision Engine**](https://github.com/huzaifayasin681/ai-incident-intelligence-decision-engine) | Turns raw incident reports into risk scores, root cause analysis and remediation steps with Gemini, plus video simulations and audio briefings. [Live demo](https://ai-incident-intelligence-decision-e.vercel.app) | React, TypeScript, Gemini |
 | [**Web Vulnerability Scanner**](https://github.com/huzaifayasin681/WebVulnScanner) | Detects SQL injection and cross site scripting with clear, actionable findings. | Python |
 | [**File Monitoring System**](https://github.com/huzaifayasin681/File-Monitoring-System) | File integrity monitoring that detects and logs filesystem changes using SHA-256. | Python |
 | [**CIA Data Classification Tool**](https://github.com/huzaifayasin681/Data-Classification-Tool-CIA-Based-) | Classifies data as public, sensitive or confidential using CIA triad principles and cryptographic checks. | C++ |
@@ -132,6 +137,8 @@ Admin CRUD portal, Markdown preview, course and quiz management, MySQL connectio
 ## Let's Connect
 
 I am open to roles in **network operations, cybersecurity, DevOps and software engineering**, and to collaborations on practical security and AI projects.
+
+If any of these tools saved you time, a ⭐ on the repo or a follow here means a lot and helps others find them. Issues, ideas and pull requests are always welcome.
 
 <p>
   <a href="mailto:huzaifayasin681@gmail.com">huzaifayasin681@gmail.com</a> &nbsp;·&nbsp;
