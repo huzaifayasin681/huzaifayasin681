@@ -24,10 +24,11 @@
 
 ## About
 
-I am a NOC Engineer at **DataFusion.ai** and a Computer Science graduate from PMAS Arid Agriculture University. My work sits where network operations, security and software engineering meet: monitoring and incident response by day, building tools that make that work faster and more reliable.
+I am a NOC Engineer and a Computer Science graduate from PMAS Arid Agriculture University. My work sits where network operations, security and software engineering meet: monitoring and incident response by day, building tools that make that work faster and more reliable.
 
 - **Security:** forensic email analysis, IOC extraction, threat hunting, vulnerability assessment
 - **Engineering:** full stack applications taken from architecture to production deployment
+- **Operations:** Linux troubleshooting, server and bypass switch monitoring, vDPI
 - **AI & Automation:** LLM powered incident analysis, alarm root cause analysis, workflow automation
 - **Founder** of [The Burujan](https://theburujan.tech), a digital agency and privacy first tools platform
 - **Open to** network, cybersecurity, DevOps and software engineering opportunities
