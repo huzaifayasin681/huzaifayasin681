@@ -24,7 +24,7 @@
 
 ## About
 
-I am a NOC Engineer at **Trovicor** and a Computer Science graduate from PMAS Arid Agriculture University. My work sits where network operations, security and software engineering meet: monitoring and incident response by day, building tools that make that work faster and more reliable.
+I am a NOC Engineer at **DataFusion.ai** and a Computer Science graduate from PMAS Arid Agriculture University. My work sits where network operations, security and software engineering meet: monitoring and incident response by day, building tools that make that work faster and more reliable.
 
 - **Security:** forensic email analysis, IOC extraction, threat hunting, vulnerability assessment
 - **Engineering:** full stack applications taken from architecture to production deployment
